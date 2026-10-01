@@ -15,12 +15,6 @@ Capstone project. I analysed the transactions of an online retailer, built RFM s
 
 UCI Online Retail dataset (about 540,000 invoice lines, Dec 2010 to Dec 2011). Each row is an invoice line, not an order.
 
-The Excel file is not included in the repo. Download it and put it here:
-
-```
-data/Online Retail.xlsx
-```
-
 ## Project structure
 
 ```
