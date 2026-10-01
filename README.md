@@ -51,10 +51,6 @@ pip install -r requirements.txt
 2. Put `Online Retail.xlsx` in the `data/` folder.
 3. Run the notebooks **in order** (01, 02, 03, 04). Each one reads the files saved by the one before it.
 
-Or only recreate the data files from the terminal:
-```
-python analysis.py
-```
 
 ## Main cleaning decisions
 
